@@ -1,5 +1,4 @@
 # Image-Classifier
-## Create your own Image Classifier
 
 ### Overview
 
